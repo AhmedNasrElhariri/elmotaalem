@@ -1,0 +1,31 @@
+const colors = {
+  primary: '#0a66c2',
+  primaryLight: '#64a1ea',
+  secondary: '#0a66c2',
+  secondaryLight: '#eef6ff',
+  secondaryLighter: '#eefcff',
+  secondaryLightest: '#d1e8ff',
+  tertiary: '#f0cc26',
+  grey: '#93a1be',
+  greyLight: '#c1c9d9',
+  greyLighter: '#dde2eb',
+  greyLightest: '#f2f5fa',
+  white: '#ffffff',
+  black: '#000000',
+  dark: '#375188',
+  danger: '#da1414',
+  dangerLight: '#feefef',
+  warning: '#b95000',
+  warningLight: '#fff4ec',
+  success: '#287d3c',
+  successLight: '#edf9f0',
+  info: '#0b63ce',
+  infoLight: '#eef2fa',
+  color100: '#6d7580',
+  color200: '#0b66c2',
+  color300: '#4b6093',
+};
+
+export default {
+  colors,
+};
